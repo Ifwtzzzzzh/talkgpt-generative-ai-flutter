@@ -1,12 +1,30 @@
-# Simple Perplexity Clone
+# TalkGPT - AI Generative App
 
-## Tech Stack:
-Frontend: Flutter
-Backend: FastAPI
+Experience the power of conversational AI with TalkGPT. An innovative app that seamlessly replicates the cutting-edge capabilities of ChatGPT. 1 Engage in dynamic and informative conversations, effortlessly generate creative content like stories, poems, and scripts, and unlock a world of possibilities with this intelligent and versatile AI companion. TalkGPT empowers you with the ability to explore complex topics, refine your writing, and discover new perspectives, all within a user-friendly and intuitive interface.  
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/vPbNnHEjnFU) 
+# Tech Stack **👩‍💻**
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/perplexity_clone/blob/main/screenshot.png" alt="Youtube Tutorial Image">
-</p>
+- Flutter (Framework)
+- Dart (Language)
+- FastAPI (Framework)
+- Python (Language)
+- Gemini AI (API)
+- Taviliy (Package)
+- Travilatura (Package)
+
+# Package 📦
+
+- google_fonts
+- web_socket_client
+- flutter_markdown
+- skeletonizer
+
+# Run Server 🛜
+
+```xml
+source ./venv/bin/activate
+```
+
+```
+fastapi dev main.py
+```
